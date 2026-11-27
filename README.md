@@ -8,7 +8,7 @@ planets.
 
 | Candidate | Host | Period (d) | Radius (R⊕) | Status | Report |
 |---|---|---|---|---|---|
-| **TOI-1467 c** (proposed name) | TOI-1467 = TIC 240968774, M0/M1 dwarf, 37.4 pc, T = 10.6 | 3.1541320 ± 0.0000041 | ≈ 1.27 | Candidate. Second planet in a system with a confirmed planet (TOI-1467 b). TRICERATOPS FPP = 0.002 with archival AO imaging; NFPP = 0.002 awaits one ground-based transit to clear two faint neighbours. Also flagged as SPOC TCE 2 (sectors 14–86); not a TOI. | [TOI-1467c/](TOI-1467c/) ([PDF](TOI-1467c/TOI-1467c_candidate_report.pdf)) |
+| **TOI-1467 c** (proposed name) | TOI-1467 = TIC 240968774, M0/M1 dwarf, 37.4 pc, T = 10.6 | 3.1541320 ± 0.0000041 | ≈ 1.27 | Candidate. Second planet in a system with a confirmed planet (TOI-1467 b). TRICERATOPS FPP = 0.002 with archival AO imaging; NFPP = 0.002 awaits one ground-based transit to clear two faint neighbours. Also flagged as SPOC TCE 2 (sectors 14–86); not a TOI. | [TOI-1467c/](TOI-1467c/) ([PDF](TOI-1467c/TOI-1467c_candidate_report.pdf), [interactive page](TOI-1467c/index.html)) |
 
 ### Lower-confidence signals (not submitted)
 
