@@ -1,4 +1,4 @@
-# Validation results for TOI-1467 c (candidate)
+# Validation results for TOI-1467 candidate 2
 
 All measured on 2026-11-26/27 from public data.
 

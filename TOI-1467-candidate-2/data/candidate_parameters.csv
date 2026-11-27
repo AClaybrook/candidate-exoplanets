@@ -1,5 +1,5 @@
 field,value,uncertainty,unit,note
-TIC ID,240968774,,,host TOI-1467 (TOI-1467 b confirmed; this signal proposed as TOI-1467 c)
+TIC ID,240968774,,,host TOI-1467 (TOI-1467 b confirmed; this signal: TOI-1467 candidate 2; not yet a TOI)
 period,3.1541320,0.0000041,days,our transit fit; TLS 3.154127; SPOC DV TCE 2 3.154093 +- 0.000014
 epoch,2459887.1638,0.0011,BJD_TDB,= BTJD 2887.1638
 depth,609,69,ppm,limb-darkened fit; SPOC DV 513 +- 84

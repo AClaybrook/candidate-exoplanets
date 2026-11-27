@@ -6,7 +6,7 @@ Signal found in an independent search on 2026-11-26, first recorded about 23:00 
 Report of 2026-11-27. Not peer reviewed. This is a **planet candidate**, not
 a confirmed planet.
 
-![Summary figure](figures/toi1467c_summary.png)
+![Summary figure](figures/toi1467_cand2_summary.png)
 
 ## Abstract
 
@@ -36,7 +36,7 @@ It is not a TESS Object of Interest.
 
 A single ground-based transit observation showing that these neighbours do
 not undergo ~20% eclipses would complete a statistical validation of
-TOI-1467 c.
+TOI-1467 candidate 2.
 
 ## 1. Data and search
 
@@ -123,7 +123,7 @@ The period ratio with b is 1.893.
 
 Per-sector, odd/even and phase-0.5 diagnostics:
 
-![Per-sector, odd/even and phase 0.5](figures/toi1467c_per_sector_odd_even_secondary.png)
+![Per-sector, odd/even and phase 0.5](figures/toi1467_cand2_per_sector_odd_even_secondary.png)
 
 ## 4. Follow-up needed
 
