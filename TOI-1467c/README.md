@@ -2,6 +2,7 @@
 
 **Austin Claybrook**
 
+Signal found in an independent search on 2026-11-26, first recorded about 23:00 UTC.
 Report of 2026-11-27. Not peer reviewed. This is a **planet candidate**, not
 a confirmed planet.
 
