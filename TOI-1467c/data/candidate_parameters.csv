@@ -1,0 +1,13 @@
+field,value,uncertainty,unit,note
+TIC ID,240968774,,,host TOI-1467 (TOI-1467 b confirmed; this signal proposed as TOI-1467 c)
+period,3.1541320,0.0000041,days,our transit fit; TLS 3.154127; SPOC DV TCE 2 3.154093 +- 0.000014
+epoch,2459887.1638,0.0011,BJD_TDB,= BTJD 2887.1638
+depth,609,69,ppm,limb-darkened fit; SPOC DV 513 +- 84
+duration,1.18,0.15,hours,T14; TLS 1.15; SPOC DV 1.23 (duration uncertainty is approximate)
+planet radius,1.27,0.09,Earth radii,R* = 0.491 +- 0.015 Rsun (TIC v8); range 1.23-1.30 across fits
+impact parameter,0.7,0.2,,poorly constrained
+semi-major axis,0.033,,AU,from Kepler's third law with M* = 0.489 Msun
+equilibrium temperature,710,,K,zero albedo
+insolation,43,,Earth flux,
+mass (2-sigma upper limit),5.5,,Earth masses,M sin i from 62 Keck/HIRES RVs (Polanski et al. 2024)
+discovery data source,TESS,,,SPOC 2-min sectors 17 18 58 85
